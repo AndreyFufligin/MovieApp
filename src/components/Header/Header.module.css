@@ -1,0 +1,9 @@
+.divider {
+  background-color: white;
+}
+
+.toolbar{
+  display: flex;
+  justify-content: space-between;
+}
+
